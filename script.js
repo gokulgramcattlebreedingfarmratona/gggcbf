@@ -1,5 +1,5 @@
 
-            function login (){
+            function login(){
                 Let username = document.getElementById("username").value;
 
                 Let password2 = document.getElementById("password_user").value;
