@@ -1,4 +1,4 @@
-function login(){
+
                 Let username = document.getElementById("username").value;
 
                 Let password2 = document.getElementById("password_user").value;
@@ -25,5 +25,5 @@ function login(){
                     document.getElementById("username").style.border="1px solid red";
                     document.getElementById("password_user").style.border="1px solid green";
                 }
-}
+
         
