@@ -1,7 +1,7 @@
 function login(){
   var uname=document.getElementById('username').value;
   var pass=document.getElementById('password').value;
-  if(uname=="ggcbfratona21" && pass=="Ratona@2024")
+  if(uname == "ggcbfratona21" && pass == "Ratona@2024")
   {
     location.assign("https://gokulgramcattlebreedingfarmratona.github.io/gggcbf/indexuser.html");
   }
